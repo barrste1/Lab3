@@ -1,0 +1,13 @@
+C:\Users\Stephen Barr (Work)\source\repos\lab3_07212020_decisionmaking\lab3_07212020_decisionmaking\bin\Debug\netcoreapp3.1\lab3_07212020_decisionmaking.exe
+C:\Users\Stephen Barr (Work)\source\repos\lab3_07212020_decisionmaking\lab3_07212020_decisionmaking\bin\Debug\netcoreapp3.1\lab3_07212020_decisionmaking.deps.json
+C:\Users\Stephen Barr (Work)\source\repos\lab3_07212020_decisionmaking\lab3_07212020_decisionmaking\bin\Debug\netcoreapp3.1\lab3_07212020_decisionmaking.runtimeconfig.json
+C:\Users\Stephen Barr (Work)\source\repos\lab3_07212020_decisionmaking\lab3_07212020_decisionmaking\bin\Debug\netcoreapp3.1\lab3_07212020_decisionmaking.runtimeconfig.dev.json
+C:\Users\Stephen Barr (Work)\source\repos\lab3_07212020_decisionmaking\lab3_07212020_decisionmaking\bin\Debug\netcoreapp3.1\lab3_07212020_decisionmaking.dll
+C:\Users\Stephen Barr (Work)\source\repos\lab3_07212020_decisionmaking\lab3_07212020_decisionmaking\bin\Debug\netcoreapp3.1\lab3_07212020_decisionmaking.pdb
+C:\Users\Stephen Barr (Work)\source\repos\lab3_07212020_decisionmaking\lab3_07212020_decisionmaking\obj\Debug\netcoreapp3.1\lab3_07212020_decisionmaking.csprojAssemblyReference.cache
+C:\Users\Stephen Barr (Work)\source\repos\lab3_07212020_decisionmaking\lab3_07212020_decisionmaking\obj\Debug\netcoreapp3.1\lab3_07212020_decisionmaking.AssemblyInfoInputs.cache
+C:\Users\Stephen Barr (Work)\source\repos\lab3_07212020_decisionmaking\lab3_07212020_decisionmaking\obj\Debug\netcoreapp3.1\lab3_07212020_decisionmaking.AssemblyInfo.cs
+C:\Users\Stephen Barr (Work)\source\repos\lab3_07212020_decisionmaking\lab3_07212020_decisionmaking\obj\Debug\netcoreapp3.1\lab3_07212020_decisionmaking.csproj.CoreCompileInputs.cache
+C:\Users\Stephen Barr (Work)\source\repos\lab3_07212020_decisionmaking\lab3_07212020_decisionmaking\obj\Debug\netcoreapp3.1\lab3_07212020_decisionmaking.dll
+C:\Users\Stephen Barr (Work)\source\repos\lab3_07212020_decisionmaking\lab3_07212020_decisionmaking\obj\Debug\netcoreapp3.1\lab3_07212020_decisionmaking.pdb
+C:\Users\Stephen Barr (Work)\source\repos\lab3_07212020_decisionmaking\lab3_07212020_decisionmaking\obj\Debug\netcoreapp3.1\lab3_07212020_decisionmaking.genruntimeconfig.cache

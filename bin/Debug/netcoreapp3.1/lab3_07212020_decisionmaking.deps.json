@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "lab3_07212020_decisionmaking/1.0.0": {
+        "runtime": {
+          "lab3_07212020_decisionmaking.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lab3_07212020_decisionmaking/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
